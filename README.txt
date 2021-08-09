@@ -13,5 +13,6 @@ The algorithms were:
 (7) Random Forest Classifier
 (8) Gradient Boosting Classifier
 
+There is a paper-based document that describes the project (Broadband Network Fault Prediction. Case Study in Palestinian Telecommunication Company.pdf)
 
  
